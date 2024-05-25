@@ -2,7 +2,7 @@ package cep;
 
 
 
-import java.awt.EventQueue;
+import java.awt.EventQueuejjjgjkgkjgjkkj
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
